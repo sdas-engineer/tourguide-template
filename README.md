@@ -4,6 +4,8 @@
 
 Your Tour Guide is an open-source HTML & CSS template for tour guides. The template can be used to make personal websites with few minor changes.
 
+Demo to the homepagecan be found [here](https://sdas-engineer.github.io/tourguide-template/)
+
 ## Personalize with these code changes
 
 ```html
