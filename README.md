@@ -21,13 +21,11 @@ Hero
     Barrowland Ballroom is a dance hall and music venue in Glasgow, Scotland.
     The original Barrowland Ballroom opened in 1934
   </p>
-  <a href="https://barrowland-ballroom.co.uk/" target="_blank" class="button"
-    >Learn more</a
-  >
+  <a href="https://barrowland-ballroom.co.uk/" target="_blank" class="button">Learn more</a>
 
   ## Guide - Change your image, email & bio
 
-  <img src="images/DP.jpeg" class="avatar" />
+  <img src="images/DP.jpeg" class="avatar"/>
   <p id="guide-bio">
     “I have lived in Glasgow for over 30 years, so I can show you all of its
     best parts and hidden secrets.”
@@ -43,7 +41,6 @@ Hero
       Sidharth Das
     </a>
   </footer>
-</div>
 ```
 
 ## Contributing
